@@ -1,4 +1,4 @@
-# Home AI Server (LAN-Only) — Ollama + Open WebUI
+# Home AI Server (LAN-Only) - Ollama + Open WebUI
 
 > **Build your own “mini ChatGPT” at home**—private, fast, and free.  
 > Because sometimes you want AI to analyze your notes without mailing them to a mysterious server farm with a nicer view than your office.
