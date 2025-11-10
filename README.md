@@ -74,7 +74,7 @@ Everything is **LAN-only** (no port forwarding), so your prompts and documents *
 
 ---
 
-## Lesson 1 — Network Basics
+## Lesson 1 Network Basics
 
 ### Step 1: Give the AI box a fixed LAN IP (DHCP reservation)
 
@@ -115,7 +115,7 @@ Make sure your network profile is **Private** (Settings → Network & Internet �
 
 ---
 
-## Lesson 2 - Install & Launch (Docker)
+## Lesson 2 Install & Launch (Docker)
 
 ### Step 1: Install Docker Desktop (Windows)
 
@@ -174,7 +174,7 @@ You should see both containers **Up**.
 
 ---
 
-## Lesson 3 — First Use (from your Mac or any device)
+## Lesson 3 First Use (from your Mac or any device)
 
 1. Open **http://10.0.0.6:3000**  
    - Create the first account → this is your **admin** in Open WebUI.
