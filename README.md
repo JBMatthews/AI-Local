@@ -1,12 +1,12 @@
-# Home AI Server (LAN-Only) - Ollama + Open WebUI
+# Home AI Server (LAN-Only): Ollama + Open WebUI
 
 > **Build your own “mini ChatGPT” at home**—private, fast, and free.  
 > Because sometimes you want AI to analyze your notes without mailing them to a mysterious server farm with a nicer view than your office.
 
 This repo shows you how to turn a spare PC into a **local AI server** that anyone in your household can use from a browser. We’ll run:
 
-- **Ollama** — the local model server (LLMs + embeddings)  
-- **Open WebUI** — the friendly web interface with accounts, history, and optional RAG
+- **Ollama**: the local model server (LLMs + embeddings)  
+- **Open WebUI**: the friendly web interface with accounts, history, and optional RAG
 
 Everything is **LAN-only** (no port forwarding), so your prompts and documents **never leave your house**.
 
@@ -115,7 +115,7 @@ Make sure your network profile is **Private** (Settings → Network & Internet �
 
 ---
 
-## Lesson 2 — Install & Launch (Docker)
+## Lesson 2 - Install & Launch (Docker)
 
 ### Step 1: Install Docker Desktop (Windows)
 
