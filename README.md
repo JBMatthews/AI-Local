@@ -264,11 +264,11 @@ Back up by copying the volumes (`ollama`, `openwebui`) or by switching to host-p
 
 ## License
 
-Use, fork, and adapt freely. If this saves you a few API dollars, buy yourself a coffee and enjoy your sovereign AI. ☕️
+Use, fork, and adapt freely. If this saves you a few API dollars, buy yourself a coffee and enjoy your sovereign AI.
 
 ---
 
 ### Author Notes
 
 - Built for a home LAN with **Windows AI box + Mac clients**, but works cross-platform.  
-- If your router UI differs from Xfinity’s, any DHCP reservation feature works the same: bind the PC’s **MAC address** to a **fixed IP** (e.g., `10.0.0.6`).
+- If your router UI differs from Xfinity’s, any DHCP reservation feature works the same: bind the PC’s **MAC address** to a **fixed IP**.
